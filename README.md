@@ -1,2 +1,2 @@
 # ChickenGame
-安裝在Minecraft datapacks的指令包，玩家可以執行set ready start final四個function開啟遊戲。遊戲在玩生存競技，玩家出去放飛一段時間後，打最終決戰。有趣的是過程中玩家不可以離自己隊伍的隊雞超過16格。專案共有6個function，infinity是每秒20次的重複function，summon是偵測到掉落物後執行，其他四個是房主推進遊戲階段可以執行。
+安裝在Minecraft datapacks的指令包，版本1.21.1，玩家可以執行set ready start final四個function開啟遊戲。遊戲在玩生存競技，玩家出去放飛一段時間後，打最終決戰。有趣的是過程中玩家不可以離自己隊伍的隊雞超過16格。專案共有6個function，infinity是每秒20次的重複function，summon是偵測到掉落物後執行，其他四個是房主推進遊戲階段可以執行。
